@@ -23,6 +23,9 @@ html {
     padding: 0;
     margin: 0;
 }
+body{
+    overflow-x: hidden;
+}
 
 
 /* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
